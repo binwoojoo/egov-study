@@ -1,0 +1,5 @@
+INDEX VERSION 1.4+C:\Users\apdkf\OneDrive\바탕 화면\develop\egov-study\.metadata\.plugins\org.eclipse.wst.jsdt.core\indexes
+1293504550.index
+9170935.index
+1578070079.index
+2574677901.index

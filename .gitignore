@@ -1,0 +1,52 @@
+# IDE 관련 파일
+.idea/
+*.iml
+*.classpath
+*.project
+.metadata/
+bin/
+target/
+out/
+
+# 운영체제 관련 파일
+.DS_Store
+Thumbs.db
+
+# Java 관련 파일
+*.class
+*.jar
+*.war
+*.ear
+*.log
+
+# 환경 설정 파일
+*.env
+*.properties
+
+# 빌드 폴더
+build/
+dist/
+
+# 테스트 결과
+test-output/
+surefire-reports/
+
+# 기타 파일
+*.tmp
+*.bak
+*.swp
+
+# 서버 관련 파일
+Servers/
+*.log
+*.pid
+*.lock
+
+# 데이터베이스 관련 파일 (예: SQLite)
+*.db
+*.sqlite
+
+# 캐시 파일
+.cache/
+tmp/
+temp/

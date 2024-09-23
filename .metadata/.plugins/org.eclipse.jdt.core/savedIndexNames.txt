@@ -1,0 +1,3 @@
+INDEX VERSION 1.131+C:\Users\apdkf\OneDrive\바탕 화면\develop\egov-study\.metadata\.plugins\org.eclipse.jdt.core
+1865797976.index
+1293504550.index
